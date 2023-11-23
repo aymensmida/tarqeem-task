@@ -12,7 +12,7 @@ Tarqeem Task is a web application that provides user management functionalities.
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/tarqeem-task.git
+git clone https://github.com/aymensmida/tarqeem-task.git
 ```
 
 ### Download
@@ -30,7 +30,7 @@ composer install
 2- Set Up Environment Variables:Duplicate the .env.example file to .env and configure your environment variables, including database settings.
 
 ```
-composer install
+cp .env.example .env
 ```
 3- Generate Application Key:
 ```
