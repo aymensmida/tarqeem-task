@@ -45,8 +45,15 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-Then go to `http://localhost:8000/` from your browser and see the app.
+Then go to `http://localhost:8000/` | `http://localhost:8000/admin`  from your browser and see the app.
 
+- Admin Space Emai: admin@example.coml & password: admin123456:
+```
+admin@example.com
+```
+```
+admin123456
+```
 
 ## Technologies Used
 
